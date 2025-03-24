@@ -21,7 +21,7 @@ A modern, interactive portfolio website showcasing my skills, projects, and prof
 ## Project Structure 📂
 
 ```
-portfolio/
+Personal portfolio/
 ├── index.html
 ├── css/
 │   ├── animation.css      # Animation styles
