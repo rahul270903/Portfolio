@@ -13,10 +13,8 @@ A modern, interactive portfolio website showcasing my skills, projects, and prof
 
 ## Technologies Used 💻
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Figma
+- HTML5, CSS3, JavaScript
+  
 
 ## Project Structure 📂
 
