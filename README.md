@@ -1,6 +1,5 @@
 # Rahul Borkar - Fullstack Developer Portfolio
 
-![Portfolio Screenshot](assets/portfolio-projects/clinic.png)
 
 A modern, interactive portfolio website showcasing my skills, projects, and professional experience as a Fullstack Developer.
 
