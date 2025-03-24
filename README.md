@@ -57,11 +57,6 @@ To personalize this portfolio:
 3. Modify color schemes in `css/color-mode.css`
 4. Adjust animations in `css/animation.css`
 
-## Contact Me 📩
-
-- **Email**: [Your Email]
-- **LinkedIn**: [Your Profile]
-- **WhatsApp**: [Your Number]
 
 ## License 📜
 
